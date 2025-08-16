@@ -1,6 +1,6 @@
 # Política de Privacidade do [Nome do Bot]
 
-**Última atualização:** DD/MM/AAAA
+**Última atualização:** 16/08/2025
 
 ## 1. Dados Coletados
 - IDs de usuário e servidores
